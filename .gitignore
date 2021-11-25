@@ -1,4 +1,6 @@
 .DS_Store
+runs/*
+450*
 .ipynb_checkpoints
 .gitignore.swp
 data/*
